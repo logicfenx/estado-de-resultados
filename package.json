@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/estado-de-resultados",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a estado-de-resultados",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/estado-de-resultados.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://tagbookmarks.info/es/estado-de-resultados/"
+    },
+    "homepage": "https://tagbookmarks.info/es/estado-de-resultados/"
+}
